@@ -1,6 +1,6 @@
 # my_project
 
-> y
+> my project
 
 ## Build Setup
 
