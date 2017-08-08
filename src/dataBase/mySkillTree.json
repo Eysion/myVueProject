@@ -1,0 +1,80 @@
+[
+  {
+    "title": "硬技能（技术技能）",
+    "icon": "skill",
+    "subList": [
+      {
+        "name": "vue"
+      }, {
+        "name": "centos & mac 命令行",
+        "icon": "centos"
+      }, {
+        "name": "JavaScript",
+        "icon": "js"
+      }, {
+        "name": "nodeJs",
+        "icon": "nodejs"
+      }, {
+        "name": "webpack-cli",
+        "icon": "webpack"
+      }, {
+        "name": "Socket.io",
+        "icon": "nodejs"
+      }, {
+        "name": "HTML5",
+        "icon": "html5"
+      }, {
+        "name": "SCSS",
+        "icon": "sass"
+      }, {
+        "name": "jade / ejs",
+        "icon": "js"
+      }
+    ]
+  }, {
+    "title": "UI 类",
+    "icon": "book-skill",
+    "subList": [
+      {
+        "name": "BootStrap",
+        "icon": "bootstrap"
+      }, {
+        "name": "Material UI",
+        "icon": "material"
+      }
+    ]
+  }, {
+    "title": "协作类",
+    "icon": "book-skill",
+    "subList": [
+      {
+        "name": "git & svn",
+        "icon": "git"
+      }, {
+        "name": "webStorm",
+        "icon": "js"
+      }, {
+        "name": "Atom",
+        "icon": "js"
+      }, {
+        "name": "sublime Text",
+        "icon": "js"
+      }, {
+        "name": "photoShop",
+        "icon": "ui"
+      }, {
+        "name": "wiki",
+        "icon": "user"
+      }, {
+        "name": "TAPD",
+        "icon": "socketio"
+      }, {
+        "name": "sketch",
+        "icon": "ui"
+      }, {
+        "name": "Bitbucket",
+        "icon": "js"
+      }
+    ]
+  }
+]
